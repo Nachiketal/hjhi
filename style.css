@@ -1,0 +1,49 @@
+#a {
+    height: 100px;
+    width: 150px;
+    border-radius: 100%;
+}
+#adf {
+    background: linear-gradient(#FF0000 30%, #FFFF00 70%);
+    background-repeat: no-repeat;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 500px;
+    padding: 0;
+    overflow: hidden;
+    background-color: ;
+}
+
+li {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    font-family: cursive;
+}
+
+.link:hover {
+    background-color: coral;
+}
+
+#kdj {
+    text-align: center;
+    background-color: crimson;
+}
+
+#dx {
+    font-style: italic;
+    font-family: cursive;
+}
+
+#Rc {
+    text-align:center;
+}
+#Mk {
+    text-align: center;
+}
